@@ -1,0 +1,13 @@
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.csproj.AssemblyReference.cache
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.AssemblyInfoInputs.cache
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.AssemblyInfo.cs
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.sourcelink.json
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\bin\Debug\net8.0\InsurancePolicies.Domain.deps.json
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\bin\Debug\net8.0\InsurancePolicies.Domain.dll
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\bin\Debug\net8.0\InsurancePolicies.Domain.pdb
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.dll
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\refint\InsurancePolicies.Domain.dll
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.pdb
+c:\Users\Alasila-Egy\OneDrive - AL ASILA CX\سطح المكتب\LuftbornTask\BE\InsurancePolicies.Domain\obj\Debug\net8.0\ref\InsurancePolicies.Domain.dll
