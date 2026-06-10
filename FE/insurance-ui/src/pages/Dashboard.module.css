@@ -1,0 +1,118 @@
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.metric {
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-md);
+  padding: 14px;
+  border: 0.5px solid var(--color-border);
+}
+
+.metricLabel {
+  font-size: 12px;
+  color: var(--color-text-secondary);
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.metricLabel i { font-size: 13px; }
+
+.metricValue {
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+.metricSub {
+  font-size: 11px;
+  color: var(--color-text-tertiary);
+  margin-top: 3px;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.sectionTitle {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+.clientCell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.clientName {
+  font-weight: 500;
+  color: var(--color-text-primary);
+  font-size: 13px;
+}
+
+.clientMeta {
+  font-size: 11px;
+  color: var(--color-text-secondary);
+  margin-top: 2px;
+}
+
+.avatarBlue {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #e6f1fb;
+  color: #185fa5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.avatarPink {
+  composes: avatarBlue;
+  background: #fbeaf0;
+  color: #993556;
+}
+
+.avatarGreen {
+  composes: avatarBlue;
+  background: #eaf3de;
+  color: #3b6d11;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  padding: 60px 0;
+}
+
+.errorBox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 16px;
+  background: #fcebeb;
+  border: 0.5px solid #f0b8b8;
+  border-radius: var(--radius-md);
+  color: #a32d2d;
+  font-size: 13px;
+}
+
+.empty {
+  padding: 20px 16px;
+  font-size: 13px;
+  color: var(--color-text-tertiary);
+  text-align: center;
+}

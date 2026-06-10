@@ -1,0 +1,63 @@
+.clientCell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.clientName {
+  font-weight: 500;
+  font-size: 13px;
+  color: var(--color-text-primary);
+}
+
+.clientMeta {
+  font-size: 11px;
+  color: var(--color-text-secondary);
+  margin-top: 2px;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  padding: 60px 0;
+}
+
+.errorBox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 16px;
+  background: #fcebeb;
+  border: 0.5px solid #f0b8b8;
+  border-radius: var(--radius-md);
+  color: #a32d2d;
+  font-size: 13px;
+}
+
+.empty {
+  padding: 20px 16px;
+  font-size: 13px;
+  color: var(--color-text-tertiary);
+  text-align: center;
+}
+
+.formError {
+  padding: 10px 12px;
+  background: #fcebeb;
+  border: 0.5px solid #f0b8b8;
+  border-radius: var(--radius-md);
+  color: #a32d2d;
+  font-size: 12px;
+}
